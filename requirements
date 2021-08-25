@@ -4,7 +4,14 @@ tools required
 pycharm
 git hub
 
+addition
 x=1
 y=3
 z=x+y
+print(z)
+
+subtraction
+x=10
+y=9
+z=x-y
 print(z)
